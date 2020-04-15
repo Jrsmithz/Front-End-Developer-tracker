@@ -1,4 +1,14 @@
 
+## April 14 - 2020
+
+- Added Two pages to the Potatoe pages, really using that experiment to mess around with Grid alot more, as I've felt way more comfortable with flexbox, and have been using that for most of my packages. 
+
+- Watched the [#LockDownConference][7] by FreeCodeCamp about how developers are adjusting and can gain traction in this pandemic, which was very informative, especially with so much uncertainty, it's certainly a big part of my future to be apart of the community online and in person (when things return to normal), because I feel like you get what you put out.
+
+- Merged my first branch in [The Potatoe project][2] using Command line. Really enjoying Command line, using it in every possible way to make it a permanent habit.
+
+[7]:https://youtu.be/l8K0B270cgE
+
 ---
 ## April 13 - 2020
 
